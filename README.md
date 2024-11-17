@@ -18,8 +18,7 @@
 2. The AI model analyzes the image and identifies the disease.  
 3. View results with disease details and recommended treatments.  
 4. Access additional tips through the chatbot feature.  
-
-Join us in revolutionizing agriculture with the power of AI! Feel free to contribute or share feedback to help us grow.  
+  
 
 ---  
 > **Note:** This project is a work in progress. Stay tuned for updates!  
