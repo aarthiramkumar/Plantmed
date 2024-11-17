@@ -109,8 +109,6 @@ The app includes a chatbot that helps users with queries, guides them through pl
   <img src="images/chabot4.png" alt="Chatbot 4" width="25%" />
 </div>
 
-- **Chatbot Page 5**: ![Chatbot 5](images/chatbot5.png)
-- **Chatbot Page 6**: ![Chatbot 6](images/chatbot6.png)
 
 ---
 
