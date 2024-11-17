@@ -57,6 +57,8 @@ This section showcases the login and sign-up pages, allowing users to authentica
   <img src="images/sign-in%20fail.png" alt="Sign In Failure" width="25%" />
   <img src="images/sign-up.png" alt="Sign Up" width="25%" />
   <img src="images/login-in success.png" alt="Sign Up" width="25%" />
+   <img src="images/sign-in fail.png" alt="Sign Up" width="25%" />
+  
   
 </div>
 
@@ -157,7 +159,16 @@ This feature presents trends related to soil health, plant disease outbreaks, an
 </div>
 
 ---
+## About
+The **About** section gives an overview of the app's purpose and its key features. It also introduces the team behind the app and provides valuable information about its functionality.
 
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="images/about.png" alt="Trends 1" width="25%" />
+  <img src="images/about2.png" alt="Trends 2" width="25%" />
+  <img src="images/about3.png" alt="Trends 3" width="25%" />
+</div>
+
+---
 ## Additional Screenshots
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
@@ -166,9 +177,6 @@ This feature presents trends related to soil health, plant disease outbreaks, an
   <img src="images/weather.png" alt="Weather" width="25%" />
 </div>
 
-- **About Page 1**: ![About 1](images/about.png)
-- **About Page 2**: ![About 2](images/about2.png)
-- **About Page 3**: ![About 3](images/about3.png)
 
 ---
 
