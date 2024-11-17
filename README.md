@@ -20,7 +20,6 @@
 4. Access additional tips through the chatbot feature.  
   
 
-
 # Plantmed Project
 
 This repository contains the source code for the **Plantmed** app, an innovative plant disease detection and management application. Below is a showcase of various pages and features of the app.
@@ -44,7 +43,7 @@ This repository contains the source code for the **Plantmed** app, an innovative
 The home page is the main landing page of the app, giving the user an overview and access to core features.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img src="images/home%20page.png" alt="Home Page" width="30%" />
+  <img src="images/home%20page.png" alt="Home Page" width="20%" />
 </div>
 
 ---
@@ -54,9 +53,9 @@ The home page is the main landing page of the app, giving the user an overview a
 This section showcases the login and sign-up pages, allowing users to authenticate and access the app.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img src="images/sign-in.png" alt="Sign In" width="30%" />
-  <img src="images/sign-in%20fail.png" alt="Sign In Failure" width="30%" />
-  <img src="images/sign-up.png" alt="Sign Up" width="30%" />
+  <img src="images/sign-in.png" alt="Sign In" width="20%" />
+  <img src="images/sign-in%20fail.png" alt="Sign In Failure" width="20%" />
+  <img src="images/sign-up.png" alt="Sign Up" width="20%" />
 </div>
 
 - **Sign Up Success**: ![Sign Up Success](images/sign-up%20aarthi.png)
@@ -69,7 +68,7 @@ This section showcases the login and sign-up pages, allowing users to authentica
 This feature allows users to upload images of leaves for disease detection. The app analyzes the images and provides feedback on plant health.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img src="images/plantdetection.png" alt="Plant Detection" width="30%" />
+  <img src="images/plantdetection.png" alt="Plant Detection" width="20%" />
 </div>
 
 ---
@@ -79,10 +78,10 @@ This feature allows users to upload images of leaves for disease detection. The 
 The soil status page provides important information related to soil health, including data on moisture, pH, and other soil metrics.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img src="images/soil%20status.png" alt="Soil Status 1" width="30%" />
-  <img src="images/soil2.png" alt="Soil Status 2" width="30%" />
-  <img src="images/soil3.png" alt="Soil Status 3" width="30%" />
-  <img src="images/soil4.png" alt="Soil Status 4" width="30%" />
+  <img src="images/soil%20status.png" alt="Soil Status 1" width="20%" />
+  <img src="images/soil2.png" alt="Soil Status 2" width="20%" />
+  <img src="images/soil3.png" alt="Soil Status 3" width="20%" />
+  <img src="images/soil4.png" alt="Soil Status 4" width="20%" />
 </div>
 
 ---
@@ -92,9 +91,9 @@ The soil status page provides important information related to soil health, incl
 This page highlights government schemes available for farmers, offering insights into available subsidies, grants, and support.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img src="images/govtscheme1.png" alt="Govt Scheme 1" width="30%" />
-  <img src="images/govtschem2.png" alt="Govt Scheme 2" width="30%" />
-  <img src="images/govtscheme3.png" alt="Govt Scheme 3" width="30%" />
+  <img src="images/govtscheme1.png" alt="Govt Scheme 1" width="20%" />
+  <img src="images/govtschem2.png" alt="Govt Scheme 2" width="20%" />
+  <img src="images/govtscheme3.png" alt="Govt Scheme 3" width="20%" />
 </div>
 
 ---
@@ -104,10 +103,10 @@ This page highlights government schemes available for farmers, offering insights
 The app includes a chatbot that helps users with queries, guides them through plant care, and provides additional support.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img src="images/chatbot1.png" alt="Chatbot 1" width="30%" />
-  <img src="images/chatbot2.png" alt="Chatbot 2" width="30%" />
-  <img src="images/chatbot3.png" alt="Chatbot 3" width="30%" />
-  <img src="images/chabot4.png" alt="Chatbot 4" width="30%" />
+  <img src="images/chatbot1.png" alt="Chatbot 1" width="20%" />
+  <img src="images/chatbot2.png" alt="Chatbot 2" width="20%" />
+  <img src="images/chatbot3.png" alt="Chatbot 3" width="20%" />
+  <img src="images/chabot4.png" alt="Chatbot 4" width="20%" />
 </div>
 
 - **Chatbot Page 5**: ![Chatbot 5](images/chatbot5.png)
@@ -120,8 +119,8 @@ The app includes a chatbot that helps users with queries, guides them through pl
 The diagnostic page helps users analyze their plant’s health status through visual recognition of symptoms.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img src="images/diagnose1.png" alt="Diagnose 1" width="30%" />
-  <img src="images/diagnose2.png" alt="Diagnose 2" width="30%" />
+  <img src="images/diagnose1.png" alt="Diagnose 1" width="20%" />
+  <img src="images/diagnose2.png" alt="Diagnose 2" width="20%" />
 </div>
 
 ---
@@ -131,9 +130,9 @@ The diagnostic page helps users analyze their plant’s health status through vi
 This section provides educational resources to users on plant care and disease management.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img src="images/learn1.png" alt="Learn 1" width="30%" />
-  <img src="images/learn2.png" alt="Learn 2" width="30%" />
-  <img src="images/learn4.png" alt="Learn 4" width="30%" />
+  <img src="images/learn1.png" alt="Learn 1" width="20%" />
+  <img src="images/learn2.png" alt="Learn 2" width="20%" />
+  <img src="images/learn4.png" alt="Learn 4" width="20%" />
 </div>
 
 ---
@@ -143,9 +142,9 @@ This section provides educational resources to users on plant care and disease m
 The profile page allows users to view and edit their account details, including personal information and preferences.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img src="images/profile.png" alt="Profile 1" width="30%" />
-  <img src="images/profile2.png" alt="Profile 2" width="30%" />
-  <img src="images/profile3.png" alt="Profile 3" width="30%" />
+  <img src="images/profile.png" alt="Profile 1" width="20%" />
+  <img src="images/profile2.png" alt="Profile 2" width="20%" />
+  <img src="images/profile3.png" alt="Profile 3" width="20%" />
 </div>
 
 ---
@@ -155,9 +154,9 @@ The profile page allows users to view and edit their account details, including 
 This feature presents trends related to soil health, plant disease outbreaks, and weather patterns.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img src="images/trends1.png" alt="Trends 1" width="30%" />
-  <img src="images/trends2.png" alt="Trends 2" width="30%" />
-  <img src="images/trends3.png" alt="Trends 3" width="30%" />
+  <img src="images/trends1.png" alt="Trends 1" width="20%" />
+  <img src="images/trends2.png" alt="Trends 2" width="20%" />
+  <img src="images/trends3.png" alt="Trends 3" width="20%" />
 </div>
 
 ---
@@ -165,9 +164,9 @@ This feature presents trends related to soil health, plant disease outbreaks, an
 ## Additional Screenshots
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img src="images/scan%20crop1.png" alt="Scan Crop 1" width="30%" />
-  <img src="images/uploadimg.png" alt="Upload Image" width="30%" />
-  <img src="images/weather.png" alt="Weather" width="30%" />
+  <img src="images/scan%20crop1.png" alt="Scan Crop 1" width="20%" />
+  <img src="images/uploadimg.png" alt="Upload Image" width="20%" />
+  <img src="images/weather.png" alt="Weather" width="20%" />
 </div>
 
 - **About Page 1**: ![About 1](images/about.png)
@@ -185,14 +184,6 @@ This app aims to simplify plant health management by providing features like dis
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 
 ---  
 > **Note:** This project is a work in progress. Stay tuned for updates!  
