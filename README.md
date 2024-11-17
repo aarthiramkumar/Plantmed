@@ -43,7 +43,9 @@ This repository contains the source code for the **Plantmed** app, an innovative
 
 The home page is the main landing page of the app, giving the user an overview and access to core features.
 
-![Home Page](images/home%20page.png)
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="images/home%20page.png" alt="Home Page" width="30%" />
+</div>
 
 ---
 
@@ -51,9 +53,12 @@ The home page is the main landing page of the app, giving the user an overview a
 
 This section showcases the login and sign-up pages, allowing users to authenticate and access the app.
 
-- **Sign In Page**: ![Sign In](images/sign-in.png)
-- **Sign In Failure**: ![Sign In Failure](images/sign-in%20fail.png)
-- **Sign Up Page**: ![Sign Up](images/sign-up.png)
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="images/sign-in.png" alt="Sign In" width="30%" />
+  <img src="images/sign-in%20fail.png" alt="Sign In Failure" width="30%" />
+  <img src="images/sign-up.png" alt="Sign Up" width="30%" />
+</div>
+
 - **Sign Up Success**: ![Sign Up Success](images/sign-up%20aarthi.png)
 - **Login Success**: ![Login Success](images/login-in%20success.png)
 
@@ -63,7 +68,9 @@ This section showcases the login and sign-up pages, allowing users to authentica
 
 This feature allows users to upload images of leaves for disease detection. The app analyzes the images and provides feedback on plant health.
 
-![Plant Detection](images/plantdetection.png)
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="images/plantdetection.png" alt="Plant Detection" width="30%" />
+</div>
 
 ---
 
@@ -71,10 +78,12 @@ This feature allows users to upload images of leaves for disease detection. The 
 
 The soil status page provides important information related to soil health, including data on moisture, pH, and other soil metrics.
 
-- **Soil Status 1**: ![Soil Status 1](images/soil%20status.png)
-- **Soil Status 2**: ![Soil Status 2](images/soil2.png)
-- **Soil Status 3**: ![Soil Status 3](images/soil3.png)
-- **Soil Status 4**: ![Soil Status 4](images/soil4.png)
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="images/soil%20status.png" alt="Soil Status 1" width="30%" />
+  <img src="images/soil2.png" alt="Soil Status 2" width="30%" />
+  <img src="images/soil3.png" alt="Soil Status 3" width="30%" />
+  <img src="images/soil4.png" alt="Soil Status 4" width="30%" />
+</div>
 
 ---
 
@@ -82,9 +91,11 @@ The soil status page provides important information related to soil health, incl
 
 This page highlights government schemes available for farmers, offering insights into available subsidies, grants, and support.
 
-- **Scheme 1**: ![Govt Scheme 1](images/govtscheme1.png)
-- **Scheme 2**: ![Govt Scheme 2](images/govtschem2.png)
-- **Scheme 3**: ![Govt Scheme 3](images/govtscheme3.png)
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="images/govtscheme1.png" alt="Govt Scheme 1" width="30%" />
+  <img src="images/govtschem2.png" alt="Govt Scheme 2" width="30%" />
+  <img src="images/govtscheme3.png" alt="Govt Scheme 3" width="30%" />
+</div>
 
 ---
 
@@ -92,10 +103,13 @@ This page highlights government schemes available for farmers, offering insights
 
 The app includes a chatbot that helps users with queries, guides them through plant care, and provides additional support.
 
-- **Chatbot Page 1**: ![Chatbot 1](images/chatbot1.png)
-- **Chatbot Page 2**: ![Chatbot 2](images/chatbot2.png)
-- **Chatbot Page 3**: ![Chatbot 3](images/chatbot3.png)
-- **Chatbot Page 4**: ![Chatbot 4](images/chabot4.png)
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="images/chatbot1.png" alt="Chatbot 1" width="30%" />
+  <img src="images/chatbot2.png" alt="Chatbot 2" width="30%" />
+  <img src="images/chatbot3.png" alt="Chatbot 3" width="30%" />
+  <img src="images/chabot4.png" alt="Chatbot 4" width="30%" />
+</div>
+
 - **Chatbot Page 5**: ![Chatbot 5](images/chatbot5.png)
 - **Chatbot Page 6**: ![Chatbot 6](images/chatbot6.png)
 
@@ -105,8 +119,10 @@ The app includes a chatbot that helps users with queries, guides them through pl
 
 The diagnostic page helps users analyze their plant’s health status through visual recognition of symptoms.
 
-- **Diagnose Page 1**: ![Diagnose 1](images/diagnose1.png)
-- **Diagnose Page 2**: ![Diagnose 2](images/diagnose2.png)
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="images/diagnose1.png" alt="Diagnose 1" width="30%" />
+  <img src="images/diagnose2.png" alt="Diagnose 2" width="30%" />
+</div>
 
 ---
 
@@ -114,9 +130,11 @@ The diagnostic page helps users analyze their plant’s health status through vi
 
 This section provides educational resources to users on plant care and disease management.
 
-- **Learn Page 1**: ![Learn 1](images/learn1.png)
-- **Learn Page 2**: ![Learn 2](images/learn2.png)
-- **Learn Page 3**: ![Learn 4](images/learn4.png)
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="images/learn1.png" alt="Learn 1" width="30%" />
+  <img src="images/learn2.png" alt="Learn 2" width="30%" />
+  <img src="images/learn4.png" alt="Learn 4" width="30%" />
+</div>
 
 ---
 
@@ -124,9 +142,11 @@ This section provides educational resources to users on plant care and disease m
 
 The profile page allows users to view and edit their account details, including personal information and preferences.
 
-- **Profile Page 1**: ![Profile 1](images/profile.png)
-- **Profile Page 2**: ![Profile 2](images/profile2.png)
-- **Profile Page 3**: ![Profile 3](images/profile3.png)
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="images/profile.png" alt="Profile 1" width="30%" />
+  <img src="images/profile2.png" alt="Profile 2" width="30%" />
+  <img src="images/profile3.png" alt="Profile 3" width="30%" />
+</div>
 
 ---
 
@@ -134,17 +154,22 @@ The profile page allows users to view and edit their account details, including 
 
 This feature presents trends related to soil health, plant disease outbreaks, and weather patterns.
 
-- **Trends Page 1**: ![Trends 1](images/trends1.png)
-- **Trends Page 2**: ![Trends 2](images/trends2.png)
-- **Trends Page 3**: ![Trends 3](images/trends3.png)
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="images/trends1.png" alt="Trends 1" width="30%" />
+  <img src="images/trends2.png" alt="Trends 2" width="30%" />
+  <img src="images/trends3.png" alt="Trends 3" width="30%" />
+</div>
 
 ---
 
 ## Additional Screenshots
 
-- **Scan Crop Image**: ![Scan Crop 1](images/scan%20crop1.png)
-- **Upload Image Page**: ![Upload Image](images/uploadimg.png)
-- **Weather Information**: ![Weather](images/weather.png)
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="images/scan%20crop1.png" alt="Scan Crop 1" width="30%" />
+  <img src="images/uploadimg.png" alt="Upload Image" width="30%" />
+  <img src="images/weather.png" alt="Weather" width="30%" />
+</div>
+
 - **About Page 1**: ![About 1](images/about.png)
 - **About Page 2**: ![About 2](images/about2.png)
 - **About Page 3**: ![About 3](images/about3.png)
@@ -154,6 +179,13 @@ This feature presents trends related to soil health, plant disease outbreaks, an
 ## Conclusion
 
 This app aims to simplify plant health management by providing features like disease detection, soil status monitoring, and educational resources. The integration of a chatbot and diagnostic tools makes it a useful tool for both amateur and professional gardeners alike.
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ---
 
