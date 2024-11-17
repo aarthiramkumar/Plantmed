@@ -56,10 +56,9 @@ This section showcases the login and sign-up pages, allowing users to authentica
   <img src="images/sign-in.png" alt="Sign In" width="25%" />
   <img src="images/sign-in%20fail.png" alt="Sign In Failure" width="25%" />
   <img src="images/sign-up.png" alt="Sign Up" width="25%" />
+  <img src="images/login-in success.png" alt="Sign Up" width="25%" />
+  
 </div>
-
-- **Sign Up Success**: ![Sign Up Success](images/sign-up%20aarthi.png)
-- **Login Success**: ![Login Success](images/login-in%20success.png)
 
 ---
 
